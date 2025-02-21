@@ -19,3 +19,9 @@ console.log("You can call multiple functions this way.");
 .catch(function failureValue(reject) {
 console.log(reject);
 });
+
+// This will print out the promise that you've just declared
+// This will print out the promise that you've just declared
+function temp() {
+    
+}
